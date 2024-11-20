@@ -111,16 +111,26 @@ body {
 /* the tags have different 'emotions' */
 .philosophical-tag {
     display: inline-block;
-    background: #725d82;
+    background: #725d8280;
     color: #FFFFFF;
     padding: 5px 10px;
     margin-right: 5px;
     border-radius: 3px;
     font-size: 14px;
 }
+.pinned-tag {
+    display: inline-block;
+    background: #830a0a80;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    margin-right: 5px;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
 .work-tag {
     display: inline-block;
-    background: #708090;
+    background: #70809080;
     color: #FFFFFF;
     padding: 5px 10px;
     margin-right: 5px;
@@ -129,7 +139,7 @@ body {
 }
 .health-tag {
     display: inline-block;
-    background: #83b683;
+    background: #83b68380;
     color: #FFFFFF;
     padding: 5px 10px;
     margin-right: 5px;
@@ -138,7 +148,7 @@ body {
 }
 .travel-tag {
     display: inline-block;
-    background: #87CEEB;
+    background: #87CEEB80;
     color: #FFFFFF;
     padding: 5px 10px;
     margin-right: 5px;
@@ -147,7 +157,7 @@ body {
 }
 .culture-tag {
     display: inline-block;
-    background: #FF6347;
+    background: #FF634780;
     color: #FFFFFF;
     padding: 5px 10px;
     margin-right: 5px;
@@ -156,7 +166,7 @@ body {
 }
 .tech-tag {
     display: inline-block;
-    background: #C0C0C0;
+    background: #C0C0C080;
     color: #FFFFFF;
     padding: 5px 10px;
     margin-right: 5px;
@@ -165,7 +175,7 @@ body {
 }
 .edu-tag {
     display: inline-block;
-    background: #a9a584;
+    background: #a9a58480;
     color: #FFFFFF;
     padding: 5px 10px;
     margin-right: 5px;
